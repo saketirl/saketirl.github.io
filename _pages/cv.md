@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science, IIT Bombay, 2014
+* M.S. in Computer Science, University of Massachusetts, Amherst, 2019
+* Ph.D in Computer Science, Brown University, 2024 (expected)
 
 Work experience
 ======
@@ -27,6 +27,13 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Skill 1
@@ -36,11 +43,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
