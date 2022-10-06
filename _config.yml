@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saket"
+  name             : "Saket Tiwari"
   avatar           : "profile.png"
-  bio              : "4th Year PhD student at Brown, looking at Reinforcement Learning theory from the lense of geometry"
+  bio              : "4th Year PhD student at Brown"
   location         : "Providence, Rhode Island"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
