@@ -3,7 +3,7 @@ title: "Meta-Learning Parameterized Skills"
 collection: publications
 permalink: /publication/param-skills
 excerpt: 'A novel method for learning parameterized skills in reinforcement learning for robotic control using deep neural network'
-date: 2024-09-01
+date: 2023-07-01
 venue: 'ICML 2023'
 paperurl: 'https://proceedings.mlr.press/v202/fu23f.html'
 citation: 'Haotian Fu, Shangqun Yu, Saket Tiwari, Michael Littman, George Konidaris. (2023). &quot;Meta-Learning Parameterized Skills.&quot; <i>ICLr 2025</i>'
