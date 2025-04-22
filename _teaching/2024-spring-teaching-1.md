@@ -13,7 +13,9 @@ I designed course material and assignments for the sequential decision making co
 Student Testimonial 1
 ======
 
+Saket has domain knowledge far beyond the level of most TAs, which allowed for deep discussion of class material and project insight.
 
 Student Testimonial 2
 ======
 
+Incredibly approachable and easy to talk to. Was a pleasure to go to his hours. The assignments that he wrote were extremely fair and understandable. A+ job
