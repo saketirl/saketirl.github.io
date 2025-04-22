@@ -3,8 +3,8 @@ title: "Cache Miss Rate Predictability via Neural Networks"
 collection: publications
 permalink: /publication/datageom
 excerpt: 'We provide a model and framework for predicting cache miss rates using feed forward neural networks'
-date: 2022-12-01
-venue: 'NeurIPS 2018 Workshop on ML in Systems'
+date: 2018-12-01
+venue: 'NeurIPS Workshop on ML in Systems'
 paperurl: 'https://openreview.net/pdf?id=QYQH9w9Z8bO'
 citation: 'Rishikesh Jha, Saket Tiwari, Arjun Kuravally, Eliot Moss. (2018). &quot;Cache Miss Rate Predictability via Neural Networks.&quot; <i>NeurIPS 2018 Workshop on ML in Systems</i>'
 ---
