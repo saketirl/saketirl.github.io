@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Saket Tiwari"
   avatar           : "profile_saket.png"
-  bio              : "6th Year PhD student at Brown (on job market for PostDoc)"
-  location         : "Providence, Rhode Island"
-  employer         : "Brown University"
+  bio              : "Researcher in reinforcement learning and robotic control"
+  location         : "California"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dMIkIX8AAAAJ&hl=en"
-  email            : "saket_tiwari@brown.edu"
+  email            : "sakett786@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
