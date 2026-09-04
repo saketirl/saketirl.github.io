@@ -2,7 +2,7 @@
 title: "Natural Option Critic"
 collection: publications
 permalink: /publication/noc
-excerpt: 'We derive a practical natural gradient method for the option-critic framework in hierarchical reinforcement learning — exploiting the geometry of the policy parameter space to improve learning, an early instance of using structure in the learning process itself.'
+excerpt: 'We derive a practical natural gradient method for the option-critic framework in hierarchical reinforcement learning, exploiting the geometry of the policy parameter space to improve learning, an early instance of using structure in the learning process itself.'
 date: 2019-01-01
 venue: 'AAAI'
 paperurl: 'https://arxiv.org/pdf/1812.01488.pdf'

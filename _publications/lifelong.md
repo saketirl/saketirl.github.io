@@ -2,7 +2,7 @@
 title: "A Domain-Agnostic Approach for Characterization of Lifelong Learning Systems"
 collection: publications
 permalink: /publication/lifelong
-excerpt: 'A domain-agnostic framework and benchmarking methodology for characterizing lifelong learning systems — how to measure whether an agent continually adapts to a stream of tasks without losing what it has already learned.'
+excerpt: 'A domain-agnostic framework and benchmarking methodology for characterizing lifelong learning systems: how to measure whether an agent continually adapts to a stream of tasks without losing what it has already learned.'
 date: 2023-01-01
 venue: 'Neural Networks Journal'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0893608023000072'
