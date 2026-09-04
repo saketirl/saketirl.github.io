@@ -2,7 +2,7 @@
 title: "Meta-Learning Parameterized Skills"
 collection: publications
 permalink: /publication/param-skills
-excerpt: 'A novel method for learning parameterized skills in reinforcement learning for robotic control using deep neural network'
+excerpt: 'A method for meta-learning parameterized skills in reinforcement learning, allowing an agent facing a stream of related robotic control tasks to transfer knowledge from earlier tasks and adapt quickly to new ones.'
 date: 2023-07-01
 venue: 'ICML'
 paperurl: 'https://proceedings.mlr.press/v202/fu23f.html'

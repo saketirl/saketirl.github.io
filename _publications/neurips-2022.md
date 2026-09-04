@@ -2,7 +2,7 @@
 title: "Effects of Data Geometry in Early Deep Learning"
 collection: publications
 permalink: /publication/datageom
-excerpt: 'We provide a new theory for understanding the capacity of neural networks in light of the manifold hypothesis'
+excerpt: 'We show that when high-dimensional data lie near a low-dimensional manifold, the underlying geometry of the data manifold governs the expressive capacity of neural networks — the first step in exploiting latent structure in real-world data for deep learning.'
 date: 2022-12-01
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2301.00008'

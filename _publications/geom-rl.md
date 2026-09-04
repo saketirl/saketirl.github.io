@@ -2,7 +2,7 @@
 title: "Geometry of Neural Reinforcement Learning in Continuous State and Action Spaces"
 collection: publications
 permalink: /publication/geomrl
-excerpt: 'We prove that the state space is a low dimensional manifold for reinforcement learning in the infinite width limit of two layer neural networks and utilise this to improve performance in dog and humanoid environments.'
+excerpt: 'We prove that the trajectories collected by deep RL agents lie near a low-dimensional manifold, establishing the manifold hypothesis for reinforcement learning in continuous state and action spaces, and exploit this structure to improve performance in high-dimensional dog and humanoid control environments.'
 date: 2025-04-01
 venue: 'ICLR <b>[ORAL: top 1.8% of submitted]</b>'
 paperurl: 'https://openreview.net/pdf?id=AP0ndQloqR'

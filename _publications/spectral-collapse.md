@@ -2,7 +2,7 @@
 title: "Spectral Collapse Drives Loss of Plasticity in Deep Continual Learning"
 collection: publications
 permalink: /publication/spectral-collapse
-excerpt: 'We show that loss of plasticity in deep continual learning is preceded by Hessian spectral collapse, and introduce tau-trainability as a unifying framework, with regularization enhancements that effectively preserve plasticity.'
+excerpt: 'For an agent facing a stream of new tasks, staying able to learn is as important as learning itself. We show that loss of plasticity in deep continual learning is preceded by Hessian spectral collapse, introduce tau-trainability as a unifying framework, and develop regularization enhancements that keep neural networks plastic as tasks change.'
 date: 2026-05-01
 venue: 'ICML'
 paperurl: 'https://arxiv.org/abs/2509.22335'
