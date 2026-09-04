@@ -78,6 +78,10 @@ analytics:
     tracking_id          :
 
 
+titles_from_headings:
+  enabled: false
+
+
 # Site Author
 author:
   name             : "Saket Tiwari"
