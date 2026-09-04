@@ -10,7 +10,7 @@ I am a PostDoc at UCSB working with [Professor Yao Qin](https://yaoqin1.github.i
 ======
 
 
- I obtained my PhD from Brown University, working on Reinforcement Learning, advised by [Professor George Konidaris](https://cs.brown.edu/people/gdk/). Prior to this I obtained a masters degree from University of Massachusetts, Amherst and had the privilege of working with [Professor Phil Thomas](https://people.cs.umass.edu/~pthomas/). I graduated with a Bachelors of Technology in computer science at IIT Bombay.
+ I obtained my PhD from Brown University, working on Reinforcement Learning at the [Intelligent Robot Lab](http://irl.cs.brown.edu/) advised by [Professor George Konidaris](https://cs.brown.edu/people/gdk/). Prior to this I obtained a masters degree from University of Massachusetts, Amherst and had the privilege of working with [Professor Phil Thomas](https://people.cs.umass.edu/~pthomas/). I graduated with a Bachelors of Technology in computer science at IIT Bombay.
 
 I work on how robotic agents can continually learn to control in an enormous world. A robot acting in the physical world faces a vast space of sensor readings, body configurations, environment states, and actions, along with a stream of ever-changing tasks. My research starts from the observation that this world is enormous but not arbitrary: the relevant variation is structured. I exploit that structure at two levels:
 
