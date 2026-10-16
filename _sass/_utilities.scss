@@ -263,6 +263,10 @@ body:hover .visually-hidden button {
     color: $twitter-color;
   }
 
+  .icon-x {
+    color: $x-color;
+  }
+
   .fa-vimeo,
   .fa-vimeo-square {
     color: $vimeo-color;
@@ -467,4 +471,25 @@ a.reversefootnote {
 .required {
   color: $danger-color;
   font-weight: bold;
+}
+
+/*
+   X (formerly Twitter) logo, inline SVG sized like a Font Awesome glyph
+   ========================================================================== */
+
+.icon-x {
+  display: inline-block;
+  height: 1em;
+  vertical-align: -0.125em;
+
+  svg {
+    width: 0.875em;
+    height: 1em;
+    fill: currentColor;
+  }
+
+  &--fw {
+    width: 1.28571429em;
+    text-align: center;
+  }
 }
