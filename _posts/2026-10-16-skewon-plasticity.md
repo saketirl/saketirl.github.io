@@ -123,7 +123,7 @@ so all of its singular values are pinned at one. A plain gradient step would lea
   <figcaption>A vanilla gradient step \(X + \eta D_X\) moves off the manifold; the retraction pulls it back to \(X^+\).</figcaption>
 </figure>
 
-We use **Skewon** (Solonko, 2026), which gives a closed-form, Muon-style update for this constrained problem. Given a momentum or gradient matrix $$M_X$$,
+We use **Skewon** ([Solonko et al., 2026](https://arxiv.org/abs/2608.06218)), which gives a closed-form, Muon-style update for this constrained problem; the same analytic solution is derived in [Su Jianlin's note *Stiefel 的解析解*](https://kexue.fm/archives/11864). Given a momentum or gradient matrix $$M_X$$,
 
 $$
 N_X = \tfrac{1}{2}\left(M_X X^\top - X M_X^\top\right),
