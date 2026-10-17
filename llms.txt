@@ -1,0 +1,58 @@
+# Saket Tiwari
+
+> Deep reinforcement learning researcher specializing in **post-training** and
+> **optimization**: how large pretrained models and control policies keep learning
+> after the first training run, and what optimizer makes that possible. Postdoctoral
+> researcher at UC Santa Barbara with Professor Yao Qin. PhD from Brown University
+> (Intelligent Robot Lab, advised by Professor George Konidaris); MS from UMass Amherst
+> (with Professor Philip Thomas); BTech in Computer Science from IIT Bombay.
+
+Homepage: https://saketirl.github.io
+
+## Focus
+
+- **Post-training and continual learning.** Keeping models plastic — able to keep
+  learning — across a stream of tasks, instead of degrading after the first one. This
+  covers continual fine-tuning of pretrained vision-language-action models on real
+  robots, and continual RL on pixel-based control.
+- **Optimization.** Constraining weight matrices through the optimizer rather than
+  through the loss. Manifold-constrained methods (Stiefel manifold, Muon-style updates,
+  Gram-preserving variants for pretrained models) that preserve conditioning over long
+  non-stationary training runs.
+- **Theory of deep RL.** An effective theory of deep RL in the continuum: low-dimensional
+  latent structure in real-world data (the manifold hypothesis, established theoretically
+  and shown for deep RL trajectories), and the learning dynamics of large networks viewed
+  on two timescales — physical time for the environment, learning time for the controller.
+- **Reliability and sim-to-real.** Predicting, before deployment, how an agent trained in
+  simulation will perform in the real world, with calibrated confidence intervals.
+
+## Selected publications
+
+- Geometry of Neural Reinforcement Learning in Continuous State and Action Spaces — ICLR 2025 (**Oral, top 1.8%**)
+- Spectral Collapse Drives Loss of Plasticity in Deep Continual Learning — ICML 2026
+- From Ticks to Flows: Dynamics of Neural Reinforcement Learning in Continuous Environments — ICLR 2026
+- Stiefel Manifold Optimization Accelerates Reinforcement Learning — Finding the Frame Workshop, RLC 2026
+- Effects of Data Geometry in Early Deep Learning — NeurIPS 2022
+- Meta-Learning Parameterized Skills — ICML 2023
+- A Domain-Agnostic Approach for Characterization of Lifelong Learning Systems — Neural Networks, 2023
+- Natural Option Critic — AAAI 2019
+
+Full list: https://saketirl.github.io/publications/
+
+## Pages
+
+- [About](https://saketirl.github.io/): research statement and background
+- [Publications](https://saketirl.github.io/publications/): full list with links
+- [Blog](https://saketirl.github.io/year-archive/): technical write-ups
+- [CV](https://saketirl.github.io/cv/)
+
+## Writing
+
+- [Preserving Plasticity in Continual Robot Learning](https://saketirl.github.io/posts/2026/10/skewon-plasticity/)
+  — loss of plasticity in pixel-based continual control, a Stiefel-constrained optimizer
+  that sustains learning over long task streams, and a Gram-preserving variant for
+  continual fine-tuning of a pretrained VLA on a real robot arm.
+
+## Contact
+
+Email: sakett786@gmail.com (as listed on the site profile)
